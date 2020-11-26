@@ -21,5 +21,4 @@ __Game plan (inspired by OG Pac-Man):__
   
 
 
-__Trailer__:
-*link "https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be" 
+__Trailer__: link https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be
