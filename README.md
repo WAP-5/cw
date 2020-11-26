@@ -11,7 +11,7 @@ __Game:__
 * MMOG ver. of pac-man called PacRace
 
 __Game plan (inspired by OG Pac-Man):__
-* General overview (see attached img)
+* General overview
   * On entry to the game, the players will spawn on one corner of the map.
   * ***The AIM*** of the game is to keep eating the 'pellets' which will randomly spawn on the map. Eat as many pellets as you can, first player to eat all the pellets, wins
     * 1 pellet = 1 score
