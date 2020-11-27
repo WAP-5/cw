@@ -19,6 +19,6 @@ __Game plan (inspired by OG Pac-Man):__
   
   
   
-
+For the working game go to our new repo: https://github.com/WAP-5/pac-race
 
 __Trailer__: link https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be
