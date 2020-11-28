@@ -29,3 +29,4 @@ PLaying the game locally:
  You need to have the mysql framework installed in order for the game to run as we are using mysql for our databse
  3) Once ther localserver has started, go to your preffered browser and go to the link localhost:3000 
  4) Enjoy :)
+ 
