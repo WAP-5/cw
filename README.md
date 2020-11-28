@@ -23,6 +23,8 @@ __Game plan (inspired by OG Pac-Man):__
 * Once ther localserver has started, go to your prefered browser and go to the link localhost:3000
 * Enjoy :)
 
+__Playing the game online__ 
+* Please visit our new repository: https://github.com/WAP-5/pac-race
 __Trailer__: link https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be
 
 
