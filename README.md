@@ -22,3 +22,10 @@ __Game plan (inspired by OG Pac-Man):__
 For the working game go to our new repo: https://github.com/WAP-5/pac-race
 
 __Trailer__: link https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be
+
+PLaying the game locally: 
+ 1) Open the terminal and navigate to the server folder: cd server 
+ 2) Once in the server folder, type the command: node server.js 
+ You need to have the mysql framework installed in order for the game to run as we are using mysql for our databse
+ 3) Once ther localserver has started, go to your preffered browser and go to the link localhost:3000 
+ 4) Enjoy :)
