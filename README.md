@@ -20,7 +20,7 @@ __Game plan (inspired by OG Pac-Man):__
 
 * Open the terminal and navigate to the server folder: cd server
 * Once in the server folder, type the command: node server.js You need to have the mysql framework installed in order for the game to run as we are using mysql for our databse
-* Once ther localserver has started, go to your preffered browser and go to the link localhost:3000
+* Once ther localserver has started, go to your prefered browser and go to the link localhost:3000
 * Enjoy :)
   
   
