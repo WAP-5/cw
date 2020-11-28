@@ -16,13 +16,15 @@ __Game plan (inspired by OG Pac-Man):__
   * ***The AIM*** of the game is to keep eating the 'pellets' which will randomly spawn on the map. Eat as many pellets as you can, first player to eat all the pellets, wins
     * 1 pellet = 1 score
     
+ PLaying the game locally: 
+
+Open the terminal and navigate to the server folder: cd server
+Once in the server folder, type the command: node server.js You need to have the mysql framework installed in order for the game to run as we are using mysql for our databse
+Once ther localserver has started, go to your preffered browser and go to the link localhost:3000
+Enjoy :)
   
   
-  
-For the working game go to our new repo: https://github.com/WAP-5/pac-race
+For the working multiplayer game go to our new repo: https://github.com/WAP-5/pac-race
 
 __Trailer__: link https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be
 
-PLaying the game locally: 
-Visit our old repo and follow the instructions for the localserver version of the game, https://github.com/WAP-5/cw
- 
