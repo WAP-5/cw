@@ -4,11 +4,16 @@
     "description": "pacman multiplayer",
     "main": "./server/server.js",
     "scripts": {
-        "start": "node server",
+        "start": "node server/server.js",
         "dev": "nodemon server"
     },
     "dependencies": {
         "express": "^4.15.2",
+        "mysql": "^2.18.1",
         "socket.io": "^3.0.1"
+    },
+    "engines": {
+        "node": "12.x"
     }
+    
 }
