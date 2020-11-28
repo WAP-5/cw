@@ -16,12 +16,15 @@ __Game plan (inspired by OG Pac-Man):__
   * ***The AIM*** of the game is to keep eating the 'pellets' which will randomly spawn on the map. Eat as many pellets as you can, first player to eat all the pellets, wins
     * 1 pellet = 1 score
    
-__Local server verion__ : 
-* The localserver version of the game can be found at our old repository: https://github.com/WAP-5/cw
+ __PLaying the game locally:__ 
+
+* Open the terminal and navigate to the server folder: cd server
+* Once in the server folder, type the command: node server.js You dont need to have the mysql framework installed in order for the game to run as this is the local version
+* Once ther localserver has started, go to your prefered browser and go to the link localhost:3000
+* Enjoy :)
 
 __Trailer__: link https://www.youtube.com/watch?v=vQWuWTi61RE&feature=youtu.be
 
-__THE LINK TO THE GAME IN ABOUT SECTION OF THIS REPO__
 
-BUGS: game shows Application Error; please contact us to play the game! 
+
 
