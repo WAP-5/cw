@@ -22,7 +22,7 @@ __Playing the game online__
  __PLaying the game locally:__ 
 
 * Open the terminal and navigate to the server folder: cd server
-* Once in the server folder, type the command: node server.js You dont need to have the mysql framework installed in order for the game to run as this is the local version
+* Once in the server folder, type the command: node server.js You dont need to have the mysql framework installed in order for the game to run as this is the local version, However you do require node.js installed 
 * Once ther localserver has started, go to your prefered browser and go to the link localhost:3000
 * Enjoy :)
 
